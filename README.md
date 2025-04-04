@@ -92,6 +92,6 @@
 
 ###
 
-<h4 align="left">In the end if you want some details about this controlask me.</h4>
+<h4 align="left">In the end if you want some details about this control ask me.</h4>
 
 ###
