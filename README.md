@@ -1,8 +1,8 @@
-<h1 align="center">8-Pool Control</h1>
+<h1 align="center">🎱8-Pool Control</h1>
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀Elevator Pitch:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯The goal and the problem it solves:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Target group:</h2>
+<h2 align="left">📢Target group:</h2>
 
 ###
 
@@ -26,19 +26,19 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️Features:</h2>
 
 ###
 
-<h4 align="left">1- OnStart : When the game is starting the event is raising.</h4>
+<h4 align="left">1️⃣ OnStart : When the game is starting the event is raising.</h4>
 
 ###
 
-<h4 align="left">2- OnStop : When the game is stopping the event is raising.</h4>
+<h4 align="left">2️⃣ OnStop : When the game is stopping the event is raising.</h4>
 
 ###
 
-<h4 align="left">3- OnEnd : When the game is ending the event is raising.</h4>
+<h4 align="left">3️⃣ OnEnd : When the game is ending the event is raising.</h4>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<h2 align="left">Techniques and tools used:</h2>
+<h2 align="left">🧰Techniques and tools used:</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h2 align="left">Challenges and how to overcome them:</h2>
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">Future plans:</h2>
+<h2 align="left">🪄Future plans:</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">Video About Project:</h2>
+<h2 align="left">🎥Video About Project:</h2>
 
 ###
 
@@ -88,7 +88,7 @@
 
 <br clear="both">
 
-<h2 align="left">End message:</h2>
+<h2 align="left">✉️End message:</h2>
 
 ###
 
